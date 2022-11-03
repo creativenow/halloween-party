@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://creativenow.github.io/halloween-party/sitemapx.xml
